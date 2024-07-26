@@ -39,8 +39,8 @@ Azure Arc estende a gestão e governança do Azure para ambientes híbridos e mu
 
 ## Azure Resource Manager (ARM)
 
-Serviço para organizar, implantar e gerenciar recursos no Azure por meio de grupos de recursos.
-Permite a implementação de "Infraestrutura como Código" (IaC) para controle centralizado de infraestrutura.
+O ARM é o serviço de implantação e gerenciamento do Azure. 
+Ele fornece uma camada de gerenciamento que permite criar, atualizar e excluir recursos em uma conta do Azure.
 
 ### Benefícios do ARM
 
