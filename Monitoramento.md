@@ -41,7 +41,8 @@ Azure Service Health combina três serviços para ajudar a gerenciar e monitorar
 
 ## Azure Monitor
 
-Azure Monitor é uma plataforma de monitoramento abrangente que coleta, analisa e visualiza dados de recursos no Azure, em ambientes locais e multi-nuvem.
+Azure Monitor é uma plataforma de monitoramento abrangente que coleta, analisa e visualiza dados de recursos no Azure.
+Os dados podem ser usados para disparar o dimensionamento automático.
 
 ### Componentes Principais
 
@@ -54,3 +55,4 @@ Azure Monitor é uma plataforma de monitoramento abrangente que coleta, analisa 
 - Monitoramento em tempo real e histórico.
 - Alertas personalizados para eventos críticos.
 - Integração com outras ferramentas como Power BI.
+- Disparar a funcionalidade de dimensionamento automático.
