@@ -54,7 +54,7 @@ O armazenamento do Azure oferece várias opções de redundância para proteger 
 
 A plataforma de armazenamento do Microsoft Azure oferece diversos serviços de dados para atender a diferentes necessidades de armazenamento, escalabilidade e durabilidade. Vamos explorar cada um desses serviços em detalhes.
 
-## 1. Blobs do Azure
+## 1. Blobs do Azure (Blob Storage)
 
 ### Descrição
 Um serviço de armazenamento de objetos altamente escalável para armazenar grandes quantidades de dados não estruturados, como texto ou dados binários. Inclui suporte para análise de Big Data com o Data Lake Storage Gen2.
@@ -71,7 +71,7 @@ Um serviço de armazenamento de objetos altamente escalável para armazenar gran
 - **Camada de Acesso Esporádico (Cool)**: Para dados acessados com menos frequência e armazenados por pelo menos 30 dias.
 - **Camada de Acesso Arquivo (Archive)**: Para dados raramente acessados e armazenados por pelo menos 180 dias.
 
-## 2. Arquivos do Azure
+## 2. Arquivos do Azure (File Storage)
 
 ### Descrição
 Compartilhamentos de arquivos gerenciados acessíveis por meio dos protocolos SMB ou NFS, permitindo o acesso simultâneo por implantações locais ou na nuvem.
@@ -86,7 +86,7 @@ Compartilhamentos de arquivos gerenciados acessíveis por meio dos protocolos SM
 - **Ambientes de Desenvolvimento e Teste:** Compartilhamento de arquivos para equipes de desenvolvimento e teste.
 - **Armazenamento de Dados de Aplicativos:** Armazenamento centralizado de arquivos para acesso por múltiplas instâncias de aplicativos.
 
-## 3. Filas do Azure
+## 3. Filas do Azure (Queue Storage)
 
 ### Descrição
 Um serviço de armazenamento de mensagens que permite a comunicação assíncrona entre componentes de aplicativos.
@@ -96,7 +96,7 @@ Um serviço de armazenamento de mensagens que permite a comunicação assíncron
 - Integração com Azure Functions para executar ações automáticas quando mensagens são recebidas.
 - Armazenamento de mensagens que podem ser acessadas globalmente via HTTP ou HTTPS.
 
-## 4. Discos do Azure
+## 4. Discos do Azure (Disk Storage)
 
 ### Descrição
 Volumes de armazenamento em nível de bloco gerenciados pelo Azure para uso com VMs do Azure. Oferecem resiliência e disponibilidade superiores aos discos físicos.
@@ -105,7 +105,7 @@ Volumes de armazenamento em nível de bloco gerenciados pelo Azure para uso com 
 - Provisionamento fácil e gerenciamento automático pelo Azure.
 - Suporte a diferentes tipos de discos (SSD, HDD) para atender a diversas necessidades de desempenho.
 
-## 5. Tabelas do Azure
+## 5. Tabelas do Azure (Table Storage)
 
 ### Descrição
 Um serviço de armazenamento NoSQL para grandes volumes de dados estruturados. Suporta chamadas autenticadas de dentro e fora da nuvem do Azure.
