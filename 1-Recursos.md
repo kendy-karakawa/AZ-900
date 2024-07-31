@@ -35,7 +35,7 @@ SLA = Um Acordo de Nível de Serviço (SLA) é um contrato que define o nível e
 - Creditos de Serviço: Compensações oferecidas se o SLA não for cumprido.
 - Monitoramento: Ferramentas como Azure Monitor ajudam a garantir que os SLAs sejam mantidos.
 
-## Escalabilidade ou Elasticidade 
+## Escalabilidade (Possivel ajustar manualmente) ou Elasticidade (dinamico e automatico)
   - Refere-se a capacidade de ajustar recursos para atender a demanda, siginifica que você pode adicionar mais recursos para lidar melhor com o aumento da demanda.
   - Você não esta pagando alem do necessário pelos serviços.
   - Baseado em consumo, vocës só paga pelo que usa.
