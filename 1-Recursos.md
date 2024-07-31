@@ -45,6 +45,9 @@ SLA = Um Acordo de Nível de Serviço (SLA) é um contrato que define o nível e
   - Escala vertical, se você estivesse desenvolvendo um aplicativo e precisasse de amsi capacidade de processamento, poderia escalar verticalmente para adicionar mais CPUs ou RAM a VM.
   - Escala horizontal, se seu aplicativo web estiver recebendo mais tráfego do que uma única VM pode lidar, você pode escalar horizontalmente adicionando mais VMs para balancear a carga e melhorar o desempenho e a resiliência.
 
+## Agilidade
+- Agilidade refere-se à capacidade de responder rapidamente às mudanças nas necessidades do negócio e de implantar e configurar recursos em nuvem de forma rápida e eficiente.
+  
 ## Confiabilidade 
   - A capacidade que um sistema tem de se recuperar de falhas e continuar funcionando.
   - Devido ao design descentralizado, a nuvem naturalmente da suporte a uma infraestrutura confiável e resiliente
