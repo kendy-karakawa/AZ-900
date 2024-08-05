@@ -55,4 +55,4 @@ Os dados podem ser usados para disparar o dimensionamento automático.
 - Monitoramento em tempo real e histórico.
 - Alertas personalizados para eventos críticos.
 - Integração com outras ferramentas como Power BI.
-- Disparar a funcionalidade de dimensionamento automático.
+- Configurar limite para disparar a funcionalidade de dimensionamento automático.
