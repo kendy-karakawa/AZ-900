@@ -63,8 +63,8 @@ A maioria das regiões do Azure é emparelhada com outra região na mesma geogra
 São instâncias do Azure isoladas da instância principal, usadas para fins legais ou de conformidade.
 
 ### Exemplos
-- **US Gov**: Regiões para parceiros e órgãos do governo dos EUA, operadas por cidadãos dos EUA com certificações de conformidade adicionais.
-- **China**: Operadas pela 21Vianet, isoladas da rede principal do Azure.
+- **Azure Gov**: Regiões para parceiros e órgãos do governo dos EUA, operadas por cidadãos dos EUA com certificações de conformidade adicionais.
+- **Azure China**: Operadas pela 21Vianet, isoladas da rede principal do Azure.
 
 # Infraestrutura de Gerenciamento do Azure
 
